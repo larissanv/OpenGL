@@ -1,0 +1,9 @@
+Como funciona a movimentação do braço:
+Teclas:
+
+left e right: mexe o ombro
+up e down: mexe o cotovelo
+f1 e f2: mexe a mão em z
+f3 e f4: mexe a mão em y
+f5: fecha os dedos
+f6: abre os dedos

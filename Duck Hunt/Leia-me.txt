@@ -1,0 +1,3 @@
+PROJETO NÃO FINALIZADO
+
+Utilize o cursor para mirar e o botão esquerdo do mouse para atirar. 
